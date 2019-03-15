@@ -182,11 +182,4 @@ $(function(){
             1200:{items: 3}
         }
     });
-
-
-
-    var x = ['#top', '#one']
-    // $(x[0]).css('display', 'none');
-
-
 })

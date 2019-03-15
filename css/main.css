@@ -250,7 +250,7 @@ a {
 #top .bg {
     /* border: 2px solid red; */
     width: 100%;
-    background-image: url('/img/mainbg.jpg');
+    background-image: url('/Work_Reddo/img/mainbg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 45em;
@@ -265,7 +265,7 @@ a {
     width: 100%;
     top: 34.2em;
     height: 11em;
-    background-image: url('../img/banner-wave.png');
+    background-image: url('/Work_Reddo/img/banner-wave.png');
     background-repeat: no-repeat;
     background-size: 100% ;
     background-position: bottom center;
@@ -720,7 +720,7 @@ a {
     /* border: 3px solid #c59; */
     height: 100%;
     width: 100%;
-    background-image: url('/img/testi-bg.jpg');
+    background-image: url('/Work_Reddo/img/testi-bg.jpg');
     background-size: 100% auto;
     display: flex;
     justify-content: center;
